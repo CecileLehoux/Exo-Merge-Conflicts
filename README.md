@@ -1,2 +1,2 @@
 # Exo-Merge-Conflicts
-Local
+Remote 
